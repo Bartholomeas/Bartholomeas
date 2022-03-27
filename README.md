@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stockio.com%2Ffree-icon%2Fsass&psig=AOvVaw12muRpMvTRf3tqiXJDjtXu&ust=1648471941924000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODnldaq5vYCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/69473527/160282287-cb98067d-9717-41f2-a8c0-3b525c950a98.png)
 
 <!--
 **Bartholomeas/Bartholomeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
