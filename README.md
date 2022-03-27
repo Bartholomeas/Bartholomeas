@@ -16,6 +16,9 @@
 
 ## Some other informations about me
  - 🇵🇱🇬🇧 **Polish** (Native) and **English** communicative speaking.
+ - 📈 I love **playing** on stocks and investing (maybe as much as programming)
+ - 🚴‍♀️ Warm outside = good time to **take a bicycle ride**
+ - 🥟 Big fan of **dumplings**
 
 ## Tools that im using
 
