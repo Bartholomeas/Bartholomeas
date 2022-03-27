@@ -20,28 +20,19 @@
 ## Tools that im using
 
  **Languages/Frameworks**
-
-![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x)  Html 
-
-![enter image description here](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png =50x)      Css
-
-![enter image description here](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png =50x)   Javascript
-
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png )React
-
-![enter image description here](https://img.icons8.com/color/50/gatsbyjs.png)  Gatsby
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/>HTML
+  - <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" height="50"/>CSS
+  -  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="50"/>Javascript
+  -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png" height="50"/>React
+  -  <img src="https://img.icons8.com/color/50/gatsbyjs.png" height="50"/>Gatsby
+  
 
  **Tools and others**
-
-![enter image description here](https://img.icons8.com/color/50/sass.png =50x50) Sass
-
-![enter image description here](https://strapi-community.github.io/strapi-plugin-rest-cache/icon.png =50x)    Strapi
-
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/40px-Gulp.js_Logo.svg.png ) Gulp
-
-![enter image description here](https://img.icons8.com/color/344/bootstrap.png =50x)Bootstrap
-
-![enter image description here](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg =50x) Gsap
+-  <img src="https://img.icons8.com/color/50/sass.png" height="50"/>Sass
+- <img src="https://strapi-community.github.io/strapi-plugin-rest-cache/icon.png" height="50"/>Strapi
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/40px-Gulp.js_Logo.svg.png" height="50"/>Gulp
+- <img src="https://img.icons8.com/color/344/bootstrap.png" height="50"/>Bootstrap
+- <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="50"/>Gsap
 
 ## Portfolio
 In progress. (:
