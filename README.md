@@ -21,27 +21,27 @@
 
  **Languages/Frameworks**
 
-![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x50)Html 
+![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x)  Html 
 
-![enter image description here](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png =50x50 )Css
+![enter image description here](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png =50x)      Css
 
-![enter image description here](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png =50x50)Javascript
+![enter image description here](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png =50x)   Javascript
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png )React
 
-![enter image description here](https://img.icons8.com/color/344/gatsbyjs.png =50x50)Gatsby
+![enter image description here](https://img.icons8.com/color/50/gatsbyjs.png)  Gatsby
 
  **Tools and others**
 
-![enter image description here](https://img.icons8.com/color/50/sass.png =50x50)Sass
+![enter image description here](https://img.icons8.com/color/50/sass.png =50x50) Sass
 
-![enter image description here](https://strapi-community.github.io/strapi-plugin-rest-cache/icon.png =50x50)Strapi
+![enter image description here](https://strapi-community.github.io/strapi-plugin-rest-cache/icon.png =50x)    Strapi
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/40px-Gulp.js_Logo.svg.png )Gulp
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/40px-Gulp.js_Logo.svg.png ) Gulp
 
-![enter image description here](https://img.icons8.com/color/344/bootstrap.png =50x50)Bootstrap
+![enter image description here](https://img.icons8.com/color/344/bootstrap.png =50x)Bootstrap
 
-![enter image description here](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg =50x50)Gsap
+![enter image description here](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg =50x) Gsap
 
 ## Portfolio
 In progress. (:
