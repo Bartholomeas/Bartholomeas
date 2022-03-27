@@ -23,7 +23,7 @@
 
 ![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =50x50)Html 
 
-![enter image description here](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png =50x50)Css
+![enter image description here](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png =50x50)
 
 ![enter image description here](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png =50x50)Javascript
 
