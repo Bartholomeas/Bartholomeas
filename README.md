@@ -20,23 +20,47 @@
  - 🚴‍♀️ Warm outside = good time to **take a bicycle ride**
  - 🥟 Big fan of **dumplings**
 
-## Tools that im using
+## My example projects
+- Oddy, cryptocurrencies portfolio and browser app (IN PROGRESS) = https://github.com/Bartholomeas/crypto-folio
+- Site with recipes = https://github.com/Bartholomeas/slurp-recipes-gatsby
+- Weather App = https://github.com/Bartholomeas/auraFinder
+- bMusic, music player = https://github.com/Bartholomeas/bMusic
+- My personal website = https://github.com/Bartholomeas/portfolio-site
 
- **Languages/Frameworks**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/>HTML
-  - <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" height="50"/>CSS
-  -  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="50"/>Javascript
-  -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png" height="50"/>React
-  -  <img src="https://img.icons8.com/color/50/gatsbyjs.png" height="50"/>Gatsby
+
+## Tools that im using
+ **Technologies that i use**
+  - HTML
+  
+  - CSS
+  - Sass
+  - Bootstrap
+  - TailwindCss
+  
+  - Javascript
+  - Typescript
+  
+  - React
+  - Gatsby
+  - NextJS
+ 
+  - Redux
+  - Graphql
+  - Git
+  - Jest / React Testing Library
   
 
- **Tools and others**
--  <img src="https://img.icons8.com/color/50/sass.png" height="50"/>Sass
-- <img src="https://strapi-community.github.io/strapi-plugin-rest-cache/icon.png" height="50"/>Strapi
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/40px-Gulp.js_Logo.svg.png" height="50"/>Gulp
-- <img src="https://img.icons8.com/color/344/bootstrap.png" height="50"/>Bootstrap
-- <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="50"/>Gsap
+ **Other skills**
+- Strapi
+- Gulp
+- Mobile First
+- RWD
+- BEM
+- Figma
+- Postman
+- Adobe Illustrator
+- Adobe Photoshop
 
-## Portfolio
-In progress. (:
+and more... (:
+
 
