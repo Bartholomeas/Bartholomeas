@@ -31,24 +31,19 @@
 ## Tools that im using
  **Technologies that i use**
   - HTML
-  
   - CSS
   - Sass
   - Bootstrap
   - TailwindCss
-  
   - Javascript
   - Typescript
-  
   - React
   - Gatsby
   - NextJS
- 
   - Redux
   - Graphql
   - Git
   - Jest / React Testing Library
-  
 
  **Other skills**
 - Strapi
