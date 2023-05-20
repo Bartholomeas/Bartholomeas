@@ -15,7 +15,7 @@
  - 🤖 **SEO friendly** sites 
 
 ## My example projects
-- My new website in progress!: portfolio-website-livid-sigma.vercel.app
+- My new website in progress!: [portfolio-website-livid-sigma.vercel.app](https://portfolio-website-livid-sigma.vercel.app/)
 
 - Oddy, cryptocurrencies portfolio and browser app (IN PROGRESS) = https://github.com/Bartholomeas/crypto-folio
 - Site with recipes = https://github.com/Bartholomeas/slurp-recipes-gatsby
