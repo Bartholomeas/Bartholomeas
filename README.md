@@ -6,7 +6,7 @@
  My name is Bartosz, im **Frontend Enthusiast** based in Poland. 
  In addition to programming, I'm also **designing** websites, logotypes etc..
 
-
+[![](https://visitcount.itsvg.in/api?id=Bartholomeas&label=Profile%20views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## Goals and characteristics during creating process
 
