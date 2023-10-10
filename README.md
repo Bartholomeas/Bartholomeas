@@ -1,4 +1,4 @@
-
+www.bstefaniak.pl
 
 ## About me 
 
@@ -17,11 +17,9 @@
  - 🤖 **SEO friendly** sites 
 
 ## My example projects
-- My new website in progress!: [portfolio-website-livid-sigma.vercel.app](https://portfolio-website-livid-sigma.vercel.app/)
 
 - Oddy, cryptocurrencies portfolio and browser app (IN PROGRESS) = https://github.com/Bartholomeas/crypto-folio
 - Site with recipes = https://github.com/Bartholomeas/slurp-recipes-gatsby
-- Weather App = https://github.com/Bartholomeas/auraFinder
 - bMusic, music player = https://github.com/Bartholomeas/bMusic
 - My personal website = https://github.com/Bartholomeas/portfolio-site
 
