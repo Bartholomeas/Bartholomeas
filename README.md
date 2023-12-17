@@ -4,6 +4,7 @@ www.bstefaniak.pl
 
 👋 Hi!
  My name is Bartek, nice to see you on my profile! 🤠
+ 
 [![](https://visitcount.itsvg.in/api?id=Bartholomeas&label=Profile%20views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## Goals and characteristics during creating process
