@@ -20,4 +20,4 @@ www.bstefaniak.pl
 - Oddy, cryptocurrencies portfolio and browser app (IN PROGRESS) = https://github.com/Bartholomeas/crypto-folio
 - Site with recipes = https://github.com/Bartholomeas/slurp-recipes-gatsby
 - bMusic, music player = https://github.com/Bartholomeas/bMusic
-- My personal website = https://github.com/Bartholomeas/portfolio-site
+- My personal website = [https://github.com/Bartholomeas/portfolio-site](https://github.com/Bartholomeas/portfolio-website)https://github.com/Bartholomeas/portfolio-website
