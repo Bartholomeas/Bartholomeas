@@ -14,3 +14,9 @@ www.bstefaniak.pl
  - 🛠 **Accesibility** of websites. Friendly to all users.
  - 🧠 **UI & UX** design 
  - 🤖 **SEO friendly** sites 
+
+
+## IN PROGRESS 
+https://github.com/Bartholomeas/business-card-generator - E-BusinessCard Generator, T3 stack
+https://github.com/Bartholomeas/work-scraper - Expressjs / Pupeteer webscrapper
+
